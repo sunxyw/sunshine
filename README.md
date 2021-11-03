@@ -6,7 +6,7 @@ A Vite2.x + Vue3 + TypeScript template starter.
 
 ## Badges
 
-![GitHub branch checks state](https://img.shields.io/github/checks-status/sunxyw/sunshine/master?style=for-the-badge)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/sunxyw/sunshine/main?style=for-the-badge)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/sunxyw/sunshine/deploy?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/sunxyw/sunshine?style=for-the-badge)
 
